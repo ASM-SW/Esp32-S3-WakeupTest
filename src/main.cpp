@@ -3,7 +3,7 @@
  * I modified to use a GPIO on a ESP32-S3 Dev kit 1
  * I have the NeoPixel flash White on each wakeup
  * I code the wakeup condition to different colors on the NeoPixel
- * because the Windows driver plays around with serial control pins when it connets up.
+ * because the Windows driver plays around with serial control pins when it comes up.
  * This causes the board to reboot.
  * https://docs.espressif.com/projects/esptool/en/latest/esp32/advanced-topics/boot-mode-selection.html
  * 
