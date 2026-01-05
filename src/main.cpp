@@ -13,7 +13,7 @@
 */
 
 #include <Arduino.h>
-#include <utils\NeoPixelScale.h>
+#include "NeoPixelScale.h"
 
 #define BUTTON_PIN_BITMASK 0x200000000 // 2^33 in hex
 
